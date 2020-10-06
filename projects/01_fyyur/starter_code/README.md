@@ -104,7 +104,7 @@ Instructions
   6. Serve venue and artist detail pages, powering the `<venue|artist>/<id>` endpoints that power the detail pages.
 
 
-Acceptance Criteria aaaa
+Acceptance Criteria 
 -----
 
 1. The web app should be successfully connected to a PostgreSQL database. A local connection to a database on your local computer is fine.
